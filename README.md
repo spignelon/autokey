@@ -20,7 +20,7 @@ pip install -r requirements.txt
 1. ```python injector.py```
 2. ```python logger.py```
 
-[![asciicast](https://asciinema.org/a/r47sVoNxNsGsVzVhUA3kjAmg4.svg)](https://asciinema.org/a/r47sVoNxNsGsVzVhUA3kjAmg4)
+[![asciicast](https://asciinema.org/a/b1i0PP2FzvEHZDPAVdLOWqkWO.svg)](https://asciinema.org/a/b1i0PP2FzvEHZDPAVdLOWqkWO)
 
 ## Tips:
 * injector.py by default uses random.uniform() with range 0 to 0.4, you can edit this range according to your needs, or you can leave it default (will work in most cases). 
